@@ -1,0 +1,319 @@
+body{
+    background-image: url('https://raw.githubusercontent.com/akashyap2013/PortFolio_Website/master/img/body-bg.png');
+}
+.new1{
+    alignment: center;
+    border-top: 1px solid red;
+    width: 30%;
+
+}
+.logo{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+/*For the heading area*/
+/*.navbar-brand{*/
+/*    padding: 0 2rem 0 4rem;*/
+/*}*/
+
+.navbar{
+    padding: 1rem 10rem;
+
+}
+
+.nav-link {
+    font-family: 'Chelsea Market', cursive;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+}
+.text-center{
+    alignment: center;
+    padding-top: 1rem;
+    font-family: 'Chelsea Market', cursive;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+.title-textupper{
+    padding: 12rem 0 0 10rem;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+.title-text{
+    padding: 1rem 0 0 10rem;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Chelsea Market', cursive;
+    text-transform: uppercase;
+    letter-spacing: 12px;
+
+}
+.title-content{
+    padding: 0.5rem 0 0 10rem;
+    font-family: 'Roboto', sans-serif;
+    /*text-transform: uppercase;*/
+}
+
+.site-button{
+    padding: 1rem 0 0 12rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner-image{
+    padding: 7rem 0 0 7rem;
+}
+
+button.primary-button{
+    /*background-color: royalblue;*/
+    background-image: linear-gradient(-90deg,#3F3F3F, #3b5998);
+    font-family: 'Chelsea Market', cursive;
+    background-clip: padding-box;
+    color: white;
+    transition : background.6s ease;
+    box-shadow: aqua;
+}
+
+button.secondary-button{
+
+    background-image: linear-gradient(-90deg,#3F3F3F, #3b5998);
+    font-family: 'Chelsea Market', cursive;
+    background-clip: padding-box;
+    color: white;
+    transition : background.6s ease;
+    box-shadow: aqua;
+
+}
+.about-area{
+    padding-bottom: 8rem;
+}
+.about-image{
+    padding: 7rem 0 0 6rem;
+}
+
+.about-content{
+    display: block;
+    padding: 4rem 0 0 0;
+    font-family: 'Chelsea Market', cursive;
+    letter-spacing: 18px;
+    text-transform: uppercase;
+}
+.skill-title{
+    padding: 8rem 0 0 0;
+
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
+}
+
+.about-skills{
+    padding: 5rem 0 0 8rem;
+}
+h5{
+    font-family: 'Chelsea Market', cursive;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+.skill-heading{
+    font-family: 'Chelsea Market', cursive;
+
+}
+.paragraph{
+    alignment: center;
+}
+/*.para{*/
+/*    display: block;*/
+/*    padding: 1rem 0 2rem 4rem;*/
+/*    font-family: 'Roboto', sans-serif;*/
+/*}*/
+.about-skills-education{
+    padding: 10rem 0 0 8rem;
+}
+.about-title{
+    alignment: center;
+}
+.symbol{
+    height: 40px;
+    width: 40px;
+}
+.brand-area{
+    padding-top: 0;
+    padding-bottom: 6rem;
+}
+
+.experience-area{
+    padding-bottom: 6rem;
+}
+.experience-title-text{
+    padding-top: 0rem;
+
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
+
+}
+
+.exp-title-text{
+    padding-top: 8rem;
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
+}
+
+.experience-text{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.project-title-text{
+    padding-top: 8rem;
+
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
+}
+
+.button-group{
+    padding: 0.9rem 0 0 0;
+
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.project-area{
+    padding-bottom: 6rem;
+}
+.project{
+    padding-top: 3rem;
+   text-align: center;
+}
+.img a:hover{
+    filter: brightness(1.1)drop-shadow(1px 8px 30px #b1afaf);
+}
+.project-image{
+    height: 50%;
+    width: 50%;
+    alignment: center;
+}
+.project-text{
+    font-family: 'Chelsea Market', cursive;
+}
+
+.project-image1{
+    padding: 90px 0 0 0;
+    height: 100%;
+    width: 50%;
+    alignment: center;
+}
+.project-image2{
+    padding: 10px 0 0 0;
+    height: 30%;
+    width: 50%;
+    alignment: center;
+}
+
+.project-image3{
+
+    padding: 10px 0 0 0;
+    height: 50%;
+    width: 50%;
+    alignment: center;
+}
+.project-image4{
+
+    padding: 30px 0 0 0;
+    height: 50%;
+    width: 50%;
+    alignment: center;
+}
+
+.project-image5{
+
+    padding: 25px 0 0 0;
+    height: 50%;
+    width: 50%;
+    alignment: center;
+}
+.experience-list{
+    padding: 8rem 0 0 0;
+    text-align : center;
+}
+.button-group{
+    background: transparent;
+    border: none;
+    font-family: 'Chelsea Market', cursive;
+    text-align: center;
+}
+.active{
+    background: transparent;
+    border: none;
+}
+
+/*.text-secondary a:hover*/
+/*{*/
+/*    filter: brightness(1.1)drop-shadow(1px 8px 30px #830C0C);*/
+/*}*/
+
+#footer{
+    alignment: center;
+}
+#footer .container-fluid {
+    padding: 3% 15%;
+    text-align: center;
+}
+.footer-image{
+    max-height: 4%;
+    max-width: 4%;
+    margin: 10px 10px;
+}
+.footer-publication-image{
+    max-height: 20%;
+    max-width: 20%;
+}
+
+
+
+
+/*For the hr tag*/
+
+/*---- general stuff ----*/
+
+nav.stroke ul li a,
+nav.fill ul li a {
+    position: relative;
+}
+nav.stroke ul li a:after,
+nav.fill ul li a:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 0%;
+    content: '.';
+    color: transparent;
+    background: red;
+    height: 1px;
+}
+nav.stroke ul li a:hover:after {
+    width: 100%;
+}
+
+nav.fill ul li a {
+    transition: all 1s;
+
+}
+
+nav.fill ul li a:after {
+    text-align: left;
+    content: '.';
+    margin: 0;
+    opacity: 0;
+}
+nav.fill ul li a:hover {
+    color: red;
+    z-index: 1;
+}
+nav.fill ul li a:hover:after {
+    z-index: -10;
+    animation: fill 1s forwards;
+    -webkit-animation: fill 1s forwards;
+    -moz-animation: fill 1s forwards;
+    opacity: 1;
+}
